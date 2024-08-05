@@ -42,5 +42,11 @@ A simple Math Calculator application built using C# and Windows Forms. This appl
 
 
 
+## Contributing
+We welcome contributions from the community! If you have suggestions for new features, improvements, or bug fixes, please feel free to submit a pull request or open an issue.
 
+
+
+## Contact
+For any questions or feedback, please contact us at [zubenathimateza73@gmail.com](mailto:your-email@example.com).
 
